@@ -1,4 +1,0 @@
-telethon
-aiohttp
-aiofiles
-requests
